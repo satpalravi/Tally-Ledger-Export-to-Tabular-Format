@@ -1,3 +1,5 @@
+#Tally Export should be in xml file format.
+
 import xml.etree.ElementTree as ET
 import pandas as pd
 
